@@ -1,4 +1,4 @@
 
 
 
-# Just shop example 
+# Just shop 
